@@ -1,18 +1,6 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+1 php
+2 // Mpesa Api keys
+3 Consumer keys ="GKOigS7N8O0xQA5IApmh2QUYhu9kkxRJrXZQyn5fiE2npbk1
+4 Consumer secret = "tUM8tBOLz8FKgAibFJYg8SNWt905Ali3FL4JjHR0mbE3ryT3ldDGAU9ezHgtPjv4
+5 access url ;
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
